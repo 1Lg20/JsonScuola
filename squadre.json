@@ -10,18 +10,22 @@
                     "ruoli":[],
                     "titolare":""
                    },
+                   {
                     "nome":"",
                     "ruoli":[],
                     "titolare":
                    },
+                   {
                     "nome":"",
                     "ruoli":[],
                     "titolare":""
                    },
+                   {
                     "nome":"",
                     "ruoli":[],
                     "titolare":""
                    },
+                   {
                     "nome":"",
                     "ruoli":[],
                     "titolare":""
@@ -39,18 +43,22 @@
                     "ruoli":[],
                     "titolare":""
                    },
+                   {
+                    "nome":"",
+                    "ruoli":[],
+                    "titolare":
+                   },
+                   {
                     "nome":"",
                     "ruoli":[],
                     "titolare":""
                    },
+                   {
                     "nome":"",
                     "ruoli":[],
                     "titolare":""
                    },
-                    "nome":"",
-                    "ruoli":[],
-                    "titolare":""
-                   },
+                   {
                     "nome":"",
                     "ruoli":[],
                     "titolare":""
@@ -68,18 +76,22 @@
                     "ruoli":[],
                     "titolare":""
                    },
+                   {
+                    "nome":"",
+                    "ruoli":[],
+                    "titolare":
+                   },
+                   {
                     "nome":"",
                     "ruoli":[],
                     "titolare":""
                    },
+                   {
                     "nome":"",
                     "ruoli":[],
                     "titolare":""
                    },
-                    "nome":"",
-                    "ruoli":[],
-                    "titolare":""
-                   },
+                   {
                     "nome":"",
                     "ruoli":[],
                     "titolare":""
@@ -97,18 +109,22 @@
                     "ruoli":[],
                     "titolare":""
                    },
+                   {
+                    "nome":"",
+                    "ruoli":[],
+                    "titolare":
+                   },
+                   {
                     "nome":"",
                     "ruoli":[],
                     "titolare":""
                    },
+                   {
                     "nome":"",
                     "ruoli":[],
                     "titolare":""
                    },
-                    "nome":"",
-                    "ruoli":[],
-                    "titolare":""
-                   },
+                   {
                     "nome":"",
                     "ruoli":[],
                     "titolare":""
@@ -126,47 +142,22 @@
                     "ruoli":[],
                     "titolare":""
                    },
+                   {
+                    "nome":"",
+                    "ruoli":[],
+                    "titolare":
+                   },
+                   {
                     "nome":"",
                     "ruoli":[],
                     "titolare":""
                    },
+                   {
                     "nome":"",
                     "ruoli":[],
                     "titolare":""
                    },
-                    "nome":"",
-                    "ruoli":[],
-                    "titolare":""
-                   },
-                    "nome":"",
-                    "ruoli":[],
-                    "titolare":""
-                   }
-                ]
-  },
-  {
-    "nome":"",
-    "serie":"",
-    "presidente":""
-    "allenatore":"",
-    "giocatori":[
-                  {
-                    "nome":"",
-                    "ruoli":[],
-                    "titolare":""
-                   },
-                    "nome":"",
-                    "ruoli":[],
-                    "titolare":""
-                   },
-                   "nome":"",
-                    "ruoli":[],
-                    "titolare":""
-                   },
-                    "nome":"",
-                    "ruoli":[],
-                    "titolare":""
-                   },
+                   {
                     "nome":"",
                     "ruoli":[],
                     "titolare":""
@@ -184,18 +175,55 @@
                     "ruoli":[],
                     "titolare":""
                    },
+                   {
+                    "nome":"",
+                    "ruoli":[],
+                    "titolare":
+                   },
+                   {
                     "nome":"",
                     "ruoli":[],
                     "titolare":""
                    },
-                   "nome":"",
-                    "ruoli":[],
-                    "titolare":""
-                   },
+                   {
                     "nome":"",
                     "ruoli":[],
                     "titolare":""
                    },
+                   {
+                    "nome":"",
+                    "ruoli":[],
+                    "titolare":""
+                   }
+                ]
+  },
+  {
+    "nome":"",
+    "serie":"",
+    "presidente":""
+    "allenatore":"",
+    "giocatori":[
+                  {
+                    "nome":"",
+                    "ruoli":[],
+                    "titolare":""
+                   },
+                   {
+                    "nome":"",
+                    "ruoli":[],
+                    "titolare":
+                   },
+                   {
+                    "nome":"",
+                    "ruoli":[],
+                    "titolare":""
+                   },
+                   {
+                    "nome":"",
+                    "ruoli":[],
+                    "titolare":""
+                   },
+                   {
                     "nome":"",
                     "ruoli":[],
                     "titolare":""
