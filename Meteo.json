@@ -1,0 +1,43 @@
+{
+  "coord": {
+    "lon": 7.4854,
+    "lat": 44.5645
+  },
+  "weather": [
+    {
+      "id": 803,
+      "main": "Clouds",
+      "description": "broken clouds",
+      "icon": "04n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 4.41,
+    "feels_like": 2.62,
+    "temp_min": 2.32,
+    "temp_max": 7.67,
+    "pressure": 1033,
+    "humidity": 83
+  },
+  "visibility": 8000,
+  "wind": {
+    "speed": 2.06,
+    "deg": 250
+  },
+  "clouds": {
+    "all": 69
+  },
+  "dt": 1706731287,
+  "sys": {
+    "type": 2,
+    "id": 2087807,
+    "country": "IT",
+    "sunrise": 1706683846,
+    "sunset": 1706718953
+  },
+  "timezone": 3600,
+  "id": 3177880,
+  "name": "Costigliole Saluzzo",
+  "cod": 200
+}
